@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sfrunza13
 - 👀 I’m interested in web development and learning about new technologies
-- 🌱 I’m currently learning web development using Express and Express-handlebars with a MongoDB back end
+- 🌱 I'm always learning new things, recently using a lot of REACT, SAMLIFY and REMIX
 - 📫 How to reach me https://www.linkedin.com/in/stefan-frunza-359b84213/
